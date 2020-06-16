@@ -1,2 +1,3 @@
 # abcd_beh
-a project on procedural learning and statistical learning in dyslexia
+This is a project on procedural learning and statistical learning in dyslexia
+
